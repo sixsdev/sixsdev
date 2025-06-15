@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">👋 Hi! I'm SixsDev</h1>
 
-<!--
-**sixsdev/sixsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💻 Developer focused on back-end and general-purpose programming<br>
+🚀 Passionate about clean code, technology and continuous learning
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages & Tools
+
+- 🐍 Python (automation, GUI, scripting)
+- 🖥️ HTML & CSS (responsive and modern layouts)
+- ⚙️ JavaScript (web interactivity and logic)
+- 📜 Lua (lightweight scripting)
+- 🧰 Git & GitHub
+
+---
+
+## 💼 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| [Python Calculator with Tkinter](https://github.com/sixsdev/calculadora-python) | Visual calculator with input validation and basic operations |
+
+---
+
+## 🧠 About Me
+
+- 🎯 Focused on writing clean, functional, and well-documented code
+- 💡 Believer in simple solutions for complex problems
+- 📚 Currently learning more about front-end design and Python automation
+
+---
+
+## 📫 Contact Me
+
+- Discord: sixsdev
