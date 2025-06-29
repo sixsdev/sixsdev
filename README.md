@@ -21,7 +21,7 @@
 
 | Project | Description |
 |--------|-------------|
-| [Python Calculator with Tkinter](https://github.com/sixsdev/calculadora-python) | Visual calculator with input validation and basic operations |
+| [Python Calculator with Tkinter](https://github.com/sixsdev/Python-Calculator-with-Tkinter/tree/main) | Visual calculator with input validation and basic operations |
 
 ---
 
